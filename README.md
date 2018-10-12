@@ -3,10 +3,10 @@ BIP39 Mnemonics for fcash
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/fcash-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/fcash-mnemonic)
-[![Build Status](https://img.shields.io/travis/bitpay/fcash-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/fcash-mnemonic)
-[![Coverage Status](https://img.shields.io/coveralls/bitpay/fcash-mnemonic.svg?style=flat-square)](https://coveralls.io/r/bitpay/fcash-mnemonic)
+[![Build Status](https://img.shields.io/travis/fcash-js/fcash-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/fcash-js/fcash-mnemonic)
+[![Coverage Status](https://img.shields.io/coveralls/fcash-js/fcash-mnemonic.svg?style=flat-square)](https://coveralls.io/r/fcash-js/fcash-mnemonic)
 
-A module for [fcash](https://github.com/bitpay/fcash) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
+A module for [fcash](https://github.com/fcash-js/fcash) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
 ## Getting Started
 
@@ -28,10 +28,10 @@ var xpriv = code.toHDPrivateKey();
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/bitpay/fcash/blob/master/CONTRIBUTING.md) on the main fcash repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/fcash-js/fcash/blob/master/CONTRIBUTING.md) on the main fcash repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/bitpay/fcash/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/fcash-js/fcash/blob/master/LICENSE).
 
-Copyright 2013-2015 BitPay, Inc. Fcash is a trademark maintained by BitPay, Inc.
+Copyright 2013-2015 Fcash, Inc. Fcash is a trademark maintained by Fcash, Inc.

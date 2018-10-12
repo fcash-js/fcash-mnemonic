@@ -2,9 +2,9 @@
   "name": "fcash-mnemonic",
   "main": "./fcash-mnemonic.min.js",
   "version": "1.1.4",
-  "homepage": "https://github.com/bitpay/fcash-mnemonic",
+  "homepage": "https://github.com/fcash-js/fcash-mnemonic",
   "authors": [
-    "BitPay"
+    "Fcash"
   ],
   "description": "BIP39 - Mnemonics implemented for Fcash.",
   "moduleType": [

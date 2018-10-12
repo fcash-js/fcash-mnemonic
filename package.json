@@ -1,8 +1,8 @@
 {
   "name": "fcash-mnemonic",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "BIP39 Mnemonics implemented for Fcash.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "Fcash <dev@fcash.cash>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/fcash-mnemonic.git"
+    "url": "https://github.com/fcash-js/fcash-mnemonic.git"
   },
   "keywords": [
     "bitcoin",
@@ -35,7 +35,7 @@
   "license": "MIT",
   "devDependencies": {
     "assert": "^1.1.2",
-    "fcash-build": "git://github.com/bitpay/fcash-build.git",
+    "fcash-build": "git://github.com/fcash-js/fcash-build.git",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
