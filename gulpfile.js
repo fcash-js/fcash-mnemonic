@@ -1,6 +1,6 @@
 'use strict';
 
-var gulp_fcash = require('fcash-build');
+var gulp_bitcore = require('bitcore-build');
 
-gulp_fcash('mnemonic');
+gulp_bitcore('mnemonic');
 
